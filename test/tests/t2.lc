@@ -1,0 +1,1 @@
+(\x:Bool->Bool.x)(\x:Bool.x)

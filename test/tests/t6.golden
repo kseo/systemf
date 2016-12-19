@@ -1,0 +1,1 @@
+{*(All Y.Y), (\x:(All Y.Y).x)} as {{Some X, (X->X)}}
